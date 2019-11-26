@@ -1,0 +1,7 @@
+/*.crt
+/*.key
+/secrets.yaml
+/*.tfstate
+/*.tfstate.backup
+/.terraform
+/nginx-ingress-*.tgz
